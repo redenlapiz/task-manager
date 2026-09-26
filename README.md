@@ -1,8 +1,8 @@
 # Personal Task Manager
 
 Project Code: WST21-PM-2026-SF
-Student Name: Reden Lapiz
-Course & Year: [Your Course & Year]
+Student Name: Reden Kenneth C Lapiz
+Course & Year: BSIT Second Year
 Database Used: MySQL
 
 ## Features
