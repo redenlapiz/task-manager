@@ -27,7 +27,7 @@ Database Used: MySQL
 ## Laravel Process
 The project follows the Laravel Workflow:
 
-# Route -> Controller -> Model -> Database -> Blade View
+### Route -> Controller -> Model -> Database -> Blade View
 
 Route receive the request, the controller handles the task operation, the model communicates with MySQL, and Blade displays the result to the user.
 
